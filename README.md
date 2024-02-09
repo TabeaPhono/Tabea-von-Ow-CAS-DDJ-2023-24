@@ -28,22 +28,22 @@ ________________________________________________________________________________
 # Grafiken Links
 # Preisveränderungen nach Monat:
 
-![Fruchtgemüse](https://datawrapper.dwcdn.net/q5YKl/8/)
+[Fruchtgemüse](https://datawrapper.dwcdn.net/q5YKl/8/)
 
-![Kohlgemüse](https://datawrapper.dwcdn.net/dWuaD/3/)
+[Kohlgemüse](https://datawrapper.dwcdn.net/dWuaD/3/)
 
-![Beeren](https://www.datawrapper.de/_/BtGoU/?v=2)
+[Beeren](https://www.datawrapper.de/_/BtGoU/?v=2)
 
-![Blattsalate (ohne Nüsslisalat und Rucola)](https://datawrapper.dwcdn.net/183L8/6/)
+[Blattsalate (ohne Nüsslisalat und Rucola)](https://datawrapper.dwcdn.net/183L8/6/)
 
-![Blattsalate](https://datawrapper.dwcdn.net/mS3N4/2/)
+[Blattsalate](https://datawrapper.dwcdn.net/mS3N4/2/)
 
-![Blattsalate (logarithmische Skala)](https://datawrapper.dwcdn.net/Rpc9m/5/)
+[Blattsalate (logarithmische Skala)](https://datawrapper.dwcdn.net/Rpc9m/5/)
 
 # Höchste und tiefste Preise nach Kalenderwoche:
 
-![Fruchtgemüse](https://public.flourish.studio/visualisation/16753727/)
+[Fruchtgemüse](https://public.flourish.studio/visualisation/16753727/)
 
-![Blattsalate](https://public.flourish.studio/visualisation/16759415/)
+[Blattsalate](https://public.flourish.studio/visualisation/16759415/)
 
-![Beeren](https://public.flourish.studio/visualisation/16759550/)
+[Beeren](https://public.flourish.studio/visualisation/16759550/)
