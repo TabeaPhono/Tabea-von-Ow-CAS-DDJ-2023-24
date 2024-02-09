@@ -1,4 +1,4 @@
-## Auswertung der Konsumentenpreise von Früchten und Gemüse nach Saisonalität
+## Auswertung der Konsumentenpreise von Früchten und Gemüse nach Saisonalität 
 # Ausgangsthese
 Früchte und Gemüse sind in der Schweiz saisonal verfügbar, die meisten davon im Sommer. Gerade wenn die Waren im Inland verfügbar sind, also weniger importiert werden muss, sind Gemüse und Früchte aber oft teurer. Mit den Daten vom Bundesamt für Landwirtschaft will ich belegen, dass die Preise sich oft gegenteilig zur jeweiligen saisonalen Verfügbarkeit verhalten. Ein Grund dafür sind die Zolltarife, die zur Förderung inländischer Produktion während der Saison je nach Sorte deutlich höher sind. Zudem ist die inländische Produktion teurer. Und es liegt nahe, dass Detailhändler höhere Margen verlangen bei saisonalen Lebensmitteln, weil dann ihre Nachfrage auch höher ist.
 
